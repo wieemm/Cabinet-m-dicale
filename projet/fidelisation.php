@@ -79,7 +79,7 @@
 
     <div class="rdv-box">
         <h2>Demandez votre carte de fidélisation</h2>
-        <p>Cette carte offre 10 consultations à prix réduit. Après avoir terminé vos 10 consultations, vous recevrez une consultation totalement gratuite !</p>
+        <p>Après avoir terminé vos 4 consultations, vous recevrez une consultation totalement gratuite !</p>
         <img src="img/carte_fidelisation.jpg" alt="Carte de Fidélisation" width="300px" height="auto">
 
         <form action="confirmation_fidelisation.php" method="POST">
